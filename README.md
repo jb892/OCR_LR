@@ -23,9 +23,11 @@ python ocr_lr_test.py
 ```
 
 
-## Authors
+## Result:
 
-* **Bo Ju**
+![](https://github.com/jb892/OCR_LR/blob/master/mnist.png)
+
+Average accuracy of the trainned network on testing dataset = ~ 92% 
 
 ## License
 
